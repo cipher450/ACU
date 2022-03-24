@@ -47,7 +47,11 @@ All features & functions :
 - HMAC (SHA1>SHA512 & MD5 & RIPMED160)
 
 - Add to windows context menu (right click on a file or a folder to hash)
- 
+
+ ![c651a69a-435d-5c68-8a14-f573243fbea7](https://user-images.githubusercontent.com/102109601/159818616-0e7dfb05-3adc-4efa-9ffa-edd4bd8df41c.png)
+ ![62fd6798-f075-5207-83c8-abe415091404](https://user-images.githubusercontent.com/102109601/159818634-7c1b7404-624d-4823-94a1-ef1371513197.png)
+
+
 ### For a realese version cheack one of these links :
 - [Softpedia](https://www.softpedia.com/get/Others/Miscellaneous/Advanced-checksum-utility.shtml)
 - [Toolslib](https://toolslib.net/downloads/viewdownload/354-advanced-checksum-utility/)
